@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**daniellemadry/daniellemadry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building a portfolio and creating my website.
 - 🌱 I’m currently learning Web Development via the #100Devs cohort 2022.
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email: Daniellemadry6@gmail.com or Twitter: BrownTechBae
 - 😄 Pronouns:She/Her💕
 - ⚡ Fun fact: I have a Tech Podcast called BrownTechBae. 
--->
