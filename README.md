@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ✋🏽
 
 
 - 🔭 I’m currently working on building a portfolio and creating my website.
