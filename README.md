@@ -8,4 +8,4 @@
 - 💬 Ask me about Technology Podcast, Confrences,Web Development and Data.
 - 📫 How to reach me: Email: Daniellemadry6@gmail.com or Twitter: BrownTechBae
 - 😄 Pronouns:She/Her💕
-- ⚡ Fun fact: I have a Tech Podcast called BrownTechBae. 
+- ⚡ Fun fact: I have a Tech Podcast called [BrownTechBae](https://anchor.fm/browntechbae). 
