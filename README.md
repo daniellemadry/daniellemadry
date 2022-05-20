@@ -7,11 +7,11 @@
 [![Danielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellemadry)](https://github.com/daniellemadry/github-readme-stats)
 
 
-- 🔭 I’m currently working on building a portfolio and creating my website.
+- 🔭 I’m currently working as a Jr. Data Analyst.
 - 💻 I have a blog of my journey on [@Hashnode](https://browntechbae.hashnode.dev/)
-- 🌱 I’m currently learning Web Development via the [@#100Devs](https://leonnoel.com/100devs/) cohort 2022.
-- 👯 I’m looking to collaborate on Front-End Web Development Projects or Software Engineering projects in general.
-- 🤔 I’m looking for help with anything I can, I have a plethora of resources.
+- 🌱 I’m currently learning Business Analytics via Udacity. Python and I am also taking the Google Data Analytics Certification.
+- 👯 I’m looking to collaborate on Python projects, Data Visulizations and data wrangling in general.
+- 🤔 I’m looking for people who are on the Data Analytics Journey.
 - 💬 Ask me about Technology Podcast, Conferences,Web Development and Data.
 - 📫 How to reach me: Email: Daniellemadry6@gmail.com or Twitter: [@BrownTechBae](https://twitter.com/browntechbae)
 - 😄 Pronouns:She/Her💕
